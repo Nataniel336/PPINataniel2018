@@ -7,6 +7,14 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Bem vindo a aplicação Spring!</h1>
+<h1>Adicionar contato</h1>
+<form action="/agendaspring/contatos">
+    Id: <input type="text" name="id">
+    Nome:<input type="text" name="nome">
+    Email: <input type="text" name="email">
+    Endereço: <input type="text" name="endereco">
+    <button type="submit">Adicionar</button>
+</form>
+
 </body>
 </html>

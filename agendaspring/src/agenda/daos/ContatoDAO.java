@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import agenda.models.Contato;
+import agendaspringmodels.Contato;
 
 public class ContatoDAO {
 

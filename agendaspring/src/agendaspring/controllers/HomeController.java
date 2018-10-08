@@ -8,9 +8,10 @@ public class HomeController {
 
 @RequestMapping("/")
 		public String home() {
-			System.out.println("Chamou o método da home! #elenão");
-		return "Home.jsp";
+			System.out.println("Chamou o método da home!");
+		return "Home";
 }
-	}
+
+}
 
 

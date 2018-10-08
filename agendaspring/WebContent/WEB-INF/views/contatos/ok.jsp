@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Bem vindo a aplicação Spring!</h1>
+<h1>O contato foi adicionado!</h1>
 </body>
 </html>
